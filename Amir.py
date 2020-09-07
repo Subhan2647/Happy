@@ -1,7 +1,7 @@
-# Written By QaiserAbbas
-#Github : https://github.com/TechQaiser
-# Youtube : Tech Qaiser
-#Facebook : QaiserAbbas
+# Written By AmirBloch
+#Github : https://github.com/Rehantech
+# Youtube : Tech Amir Tech
+#Facebook : Amir Manzoor
 #advance 100 subscriber Command
 
 import marshal,zlib,base64
